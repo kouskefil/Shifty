@@ -1,0 +1,17 @@
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/utlis/EmployeeStatus.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/repositories/EmployeeRepository.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/controllers/EmployeeCtrl.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/controllers/DepartmentCtrl.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/services/QualificationService.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/services/EmployeeService.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/controllers/QualificationCtrl.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/models/Employee.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/services/DepartmentService.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/repositories/DepartmentRepository.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/requests/QualificationRequest.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/requests/EmployeeRegRequest.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/requests/DepartmentRequest.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/repositories/QualificationRepository.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/models/Qualification.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/EmployeeApplication.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/models/Department.java

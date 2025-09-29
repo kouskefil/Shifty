@@ -4,15 +4,9 @@ server:
 spring:
   application:
     name: employee
-  datasource:
-      username: 'kouskefil'
-      url: jdbc:postgresql://localhost:5432/employee
-      password: 'password'
-  jpa:
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.PostgreSQLDialect
-        format_sql: 'true'
-    hibernate:
-      ddl-auto: update
-    show-sql: 'true'
+  data:
+    mongodb:
+      uri: mongodb+srv://kouskefil:Mo%4011109010%23@cluster0.coruxqx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: users
+  jmx:
+    enabled: false

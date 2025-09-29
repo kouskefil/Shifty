@@ -1,0 +1,12 @@
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/models/Weekly.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/WeeklyController.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/models/Shift.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/service/WeeklyService.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/repository/WeeklyRepository.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/service/WeeklyServiceImpl.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/DTOs/DailyDTO.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/DTOs/ShiftDTO.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/utils/DayOfWeek.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/models/Daily.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/DTOs/weeklyDTO.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/planning/src/main/java/com/kouskefil/planning/PlanningApplication.java

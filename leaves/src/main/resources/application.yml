@@ -1,0 +1,12 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: leave
+  data:
+    mongodb:
+      uri: mongodb+srv://kouskefil:Mo%4011109010%23@cluster0.coruxqx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: leave
+  jmx:
+    enabled: false

@@ -18,17 +18,22 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
         </processorPath>
+        <module name="volunteering" />
+        <module name="planning" />
         <module name="employee" />
+        <module name="leaves" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="employee" options="-parameters" />
+      <module name="leaves" options="-parameters" />
+      <module name="planning" options="-parameters" />
       <module name="scholar" options="" />
       <module name="shifty" options="" />
+      <module name="volunteering" options="-parameters" />
     </option>
   </component>
 </project>
