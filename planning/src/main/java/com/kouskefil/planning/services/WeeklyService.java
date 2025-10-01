@@ -1,10 +1,9 @@
-package com.kouskefil.planning.service;
+package com.kouskefil.planning.services;
 
 import com.kouskefil.planning.DTOs.DailyDTO;
 import com.kouskefil.planning.DTOs.ShiftDTO;
 import com.kouskefil.planning.DTOs.weeklyDTO;
 import com.kouskefil.planning.utils.DayOfWeek;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 

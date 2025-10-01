@@ -1,10 +1,10 @@
-package com.kouskefil.planning.service;
+package com.kouskefil.planning.services;
 
 import com.kouskefil.planning.DTOs.DailyDTO;
 import com.kouskefil.planning.DTOs.ShiftDTO;
 import com.kouskefil.planning.DTOs.weeklyDTO;
 import com.kouskefil.planning.models.Weekly;
-import com.kouskefil.planning.repository.WeeklyRepository;
+import com.kouskefil.planning.repositories.WeeklyRepository;
 import com.kouskefil.planning.utils.DayOfWeek;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

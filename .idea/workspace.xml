@@ -5,92 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e04d09-52cc-4040-977c-6fc7bf4b0cec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/controllers/DepartmentCtrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/controllers/QualificationCtrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/dtos/EmployeeDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/models/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/repositories/DepartmentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/repositories/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/repositories/QualificationRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/requests/DepartmentRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/requests/QualificationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/services/DepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/services/QualificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/java/com/kouskefil/leave/LeaveApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/java/com/kouskefil/leave/LeaveCtrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/java/com/kouskefil/leave/LeaveDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/java/com/kouskefil/leave/LeaveRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/java/com/kouskefil/leave/dtos/LeaveDTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/java/com/kouskefil/leave/models/Leave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/java/com/kouskefil/leave/services/LeaveService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/java/com/kouskefil/leave/utils/LeaveStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/java/com/kouskefil/leave/utils/LeaveType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leaves/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/DTOs/DailyDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/DTOs/ShiftDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/DTOs/weeklyDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/PlanningApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/WeeklyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/models/Daily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/models/Shift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/models/Weekly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/repository/WeeklyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/service/WeeklyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/service/WeeklyServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/utils/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planning/src/test/java/com/kouskefil/planning/service/WeeklyServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/DTOs/SpecialDayDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/DTOs/VolunteeringDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/Model/SpecialDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/Model/Volunteering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/VolunteeringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/controllers/SpecialDayCtrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/controllers/VolunteeringCtrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/repository/SdRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/repository/VolunteerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/service/SpecialDayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/service/VolunteeringService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/java/com/kouskefil/volunteering/utls/ShiftType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteering/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planning/src/test/java/com/kouskefil/planning/services/WeeklyServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/employee/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/EmployeeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/EmployeeApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/controllers/EmployeeCtrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/controllers/EmployeeCtrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/models/Department.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/models/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/models/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/models/Qualification.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/models/Qualification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/repositories/EmployeeRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/repositories/QualificationRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/requests/EmployeeRegRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/requests/EmployeeRegRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/services/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/services/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/planning/utlis/EmployeeStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/kouskefil/employee/utlis/EmployeeStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/employee/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/EmployeeApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/controllers/EmployeeCtrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/models/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/models/Employee$EmployeeBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/models/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/models/Qualification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/repositories/EmployeeRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/repositories/QualificationRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/requests/EmployeeRegRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/services/EmployeeService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/classes/com/kouskefil/planning/utlis/EmployeeStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/employee/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/target/planning-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/WeeklyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/WeeklyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/repository/WeeklyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/repositories/WeeklyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/service/WeeklyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/services/WeeklyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/service/WeeklyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/planning/src/main/java/com/kouskefil/planning/services/WeeklyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/src/test/java/com/kouskefil/planning/service/WeeklyServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/DTOs/DailyDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/DTOs/DailyDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/DTOs/ShiftDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/DTOs/ShiftDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/DTOs/weeklyDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/DTOs/weeklyDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/PlanningApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/PlanningApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/WeeklyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/WeeklyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Daily$DailyBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Daily$DailyBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Daily.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Daily.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Shift$ShiftBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Shift$ShiftBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Shift.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Shift.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Weekly$WeeklyBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Weekly$WeeklyBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Weekly.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/models/Weekly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/repository/WeeklyRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/service/WeeklyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/service/WeeklyServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/utils/DayOfWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/classes/com/kouskefil/planning/utils/DayOfWeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planning/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/planning/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,60 +79,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.VolonteeringApp.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.shifty [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.shifty [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.shifty [validate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.volunteering [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.volunteering [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.volunteering [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.volunteering [validate].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.console.js.executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.EmployeeApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.LeaveApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.PlanningApplication (1).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.PlanningApplication (2).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.PlanningApplication (3).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.PlanningApplication (4).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.PlanningApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.VolunteeringApplication (1).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.VolunteeringApplication (2).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.VolunteeringApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kefilkoussonda/projects/JAVA/Shifty/leaves/src/main/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kefilkoussonda/projects/JAVA/Shifty/leaves/src/main/java/com/kouskefil/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.VolonteeringApp.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.planning [clean].executor": "Run",
+    "Maven.planning [test].executor": "Run",
+    "Maven.shifty [clean].executor": "Run",
+    "Maven.shifty [compile].executor": "Run",
+    "Maven.shifty [validate].executor": "Run",
+    "Maven.volunteering [clean].executor": "Run",
+    "Maven.volunteering [compile].executor": "Run",
+    "Maven.volunteering [package].executor": "Run",
+    "Maven.volunteering [validate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.console.js.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.EmployeeApplication.executor": "Run",
+    "Spring Boot.LeaveApplication.executor": "Run",
+    "Spring Boot.PlanningApplication (1).executor": "Run",
+    "Spring Boot.PlanningApplication (2).executor": "Run",
+    "Spring Boot.PlanningApplication (3).executor": "Run",
+    "Spring Boot.PlanningApplication (4).executor": "Run",
+    "Spring Boot.PlanningApplication.executor": "Run",
+    "Spring Boot.VolunteeringApplication (1).executor": "Run",
+    "Spring Boot.VolunteeringApplication (2).executor": "Run",
+    "Spring Boot.VolunteeringApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kefilkoussonda/projects/JAVA/Shifty/leaves/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/kefilkoussonda/projects/JAVA/Shifty/leaves/src/main/java/com/kouskefil/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mongo&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leaves/src/main/resources" />
@@ -388,7 +332,9 @@
       <workItem from="1756830704870" duration="2710000" />
       <workItem from="1758109590756" duration="982000" />
       <workItem from="1758132077661" duration="3493000" />
-      <workItem from="1758715035497" duration="19081000" />
+      <workItem from="1758715035497" duration="46725000" />
+      <workItem from="1759315567400" duration="2217000" />
+      <workItem from="1759320348070" duration="111000" />
     </task>
     <servers />
   </component>

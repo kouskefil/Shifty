@@ -1,7 +1,7 @@
 package com.kouskefil.planning;
 
 import com.kouskefil.planning.DTOs.weeklyDTO;
-import com.kouskefil.planning.service.WeeklyService;
+import com.kouskefil.planning.services.WeeklyService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
