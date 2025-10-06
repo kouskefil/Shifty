@@ -9,3 +9,4 @@ public class PlanningApplication {
         SpringApplication.run(PlanningApplication.class, args);
     }
 }
+

@@ -2,11 +2,14 @@ package com.kouskefil.planning;
 
 import com.kouskefil.planning.DTOs.weeklyDTO;
 import com.kouskefil.planning.services.WeeklyService;
+import com.kouskefil.planning.services.WeeklyServiceImpl;
 import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+@Slf4j
 @RestController
 @RequestMapping("/api/planning")
 @RequiredArgsConstructor
@@ -16,6 +19,7 @@ public class WeeklyController {
 
   @PostMapping
   public weeklyDTO createPlanning(@RequestBody weeklyDTO dto) {
+      log.info("Planning Created {}", dto);
       return weeklyService.registerWeekly(dto);
   }
 

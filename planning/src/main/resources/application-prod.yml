@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: planning
+  data:
+    mongodb:
+      uri: ${SPRING_DATA_MONGODB_URI}
+      database: planning
+  jmx:
+    enabled: false
+logging:
+  level:
+    root: warn

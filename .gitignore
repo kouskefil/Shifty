@@ -1,3 +1,5 @@
-.env-local
-.env-prod
+planning/.env
+employee/.env
+leaves/.env
+volunteering/.env
 .idea/

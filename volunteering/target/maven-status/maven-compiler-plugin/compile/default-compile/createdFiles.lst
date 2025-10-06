@@ -1,0 +1,14 @@
+com/kouskefil/volunteering/controllers/SpecialDayCtrl.class
+com/kouskefil/volunteering/VolunteeringApplication.class
+com/kouskefil/volunteering/DTOs/SpecialDayDTO.class
+com/kouskefil/volunteering/Model/Volunteering$VolunteeringBuilder.class
+com/kouskefil/volunteering/Model/Volunteering.class
+com/kouskefil/volunteering/Model/SpecialDay$SpecialDayBuilder.class
+com/kouskefil/volunteering/service/SpecialDayService.class
+com/kouskefil/volunteering/service/VolunteeringService.class
+com/kouskefil/volunteering/controllers/VolunteeringCtrl.class
+com/kouskefil/volunteering/DTOs/VolunteeringDTO.class
+com/kouskefil/volunteering/repository/VolunteerRepository.class
+com/kouskefil/volunteering/utls/ShiftType.class
+com/kouskefil/volunteering/Model/SpecialDay.class
+com/kouskefil/volunteering/repository/SdRepository.class

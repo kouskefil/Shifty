@@ -13,5 +13,7 @@
 /Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/requests/DepartmentRequest.java
 /Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/repositories/QualificationRepository.java
 /Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/models/Qualification.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/dtos/EmployeeDTO.java
 /Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/EmployeeApplication.java
 /Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/models/Department.java
+/Users/kefilkoussonda/projects/JAVA/Shifty/employee/src/main/java/com/kouskefil/employee/EnvChecker.java
