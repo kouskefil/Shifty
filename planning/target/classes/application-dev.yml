@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: planning
-  data:
-    mongodb:
-      uri: ${DB_URI}
-      database: ${DB_NAME}
-  jmx:
-    enabled: false

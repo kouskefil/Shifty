@@ -1,5 +1,9 @@
 planning/.env
+planning/target/
 employee/.env
+employee/target/
 leaves/.env
+leaves/target/
 volunteering/.env
+volunteering/target/
 .idea/
